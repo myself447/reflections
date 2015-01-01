@@ -4,4 +4,4 @@
 	
 9. How is the staging area different from the working directory and the repository? What value do you think it offers?
 
-	you can choose which modified doc(s) should go to a certain commit or just to commit the cganges you want instead of all
+	you can choose which modified doc(s) should go to a certain commit or just to commit the cganges you want instead of all.
