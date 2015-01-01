@@ -1,0 +1,7 @@
+8. What happens when you initialize a repository? Why do you need to do it?
+
+	to tell git where to save the medata regarding that directory
+	
+9. How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	you can choose which modified doc(s) should go to a certain commit or just to commit the cganges you want instead of all
