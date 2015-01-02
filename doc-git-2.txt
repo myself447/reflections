@@ -1,7 +1,15 @@
 8. What happens when you initialize a repository? Why do you need to do it?
 
-	to tell git where to save the medata regarding that directory
+	to tell git where to save the medata regarding that directory.
 	
 9. How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 	you can choose which modified doc(s) should go to a certain commit or just to commit the cganges you want instead of all.
+	
+10. How can you use the staging area to make sure you have one commit per logical change?
+
+	by comparing the staging area with the most recent commit
+	
+11. What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+	when trying to make a proyect based on another one, or when the changes might be to big
