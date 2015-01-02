@@ -13,3 +13,7 @@
 11. What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 	when trying to make a proyect based on another one, or when the changes might be to big
+	
+12. How do the diagrams help you visualize the branch structure?
+
+	they tells you which branch the commit belongs to
