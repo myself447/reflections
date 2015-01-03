@@ -17,3 +17,7 @@
 12. How do the diagrams help you visualize the branch structure?
 
 	they tells you which branch the commit belongs to
+	
+13. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+	to get the functionalities or features that were coded separatly. because they have the same origin bt later they get divided and return together again. 
