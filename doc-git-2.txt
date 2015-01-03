@@ -20,4 +20,10 @@
 	
 13. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
-	to get the functionalities or features that were coded separatly. because they have the same origin bt later they get divided and return together again. 
+	to get the functionalities or features that were coded separatly. because they have the same origin bt later they get divided and return together again.
+
+14. What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+	we don't have control which order the code will be set int
+	we don't need to waste time doing it manually each time
+	
