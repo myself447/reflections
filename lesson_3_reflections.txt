@@ -18,3 +18,7 @@
 
 	I would collaborate by having multiple copies of the same project each one with the changes from each collaborater specifying which lines they changed.
 	I don't find what could be easier but what would be harder might be everything!
+	
+6. When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+	when working collaboratively to avoid confliacts. You'll be able to see the diff before merging into master
